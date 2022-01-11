@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="smart_button">Press me!</string>
+    <string name="display_text">Watch Me!</string>
+</resources>
